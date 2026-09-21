@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad **Rakha Azhar** Ramadhani</h1>
+<h1 align="center">Hi 👋, I'm Rakha Azhar Ramadhani</h1>
 <h3 align="center">Software Engineering Student & Tech Enthusiast</h3>
 
 - 🌱 I’m currently learning **Laravel, MySQL/SQL, UI/UX (Figma)**
