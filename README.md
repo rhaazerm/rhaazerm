@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/rhaazerm/](https://www.linkedin.com/in/rhaazerm/)
 
-- ⚡ Fun fact **I like girl**
+- ⚡ Fun fact **I like playing Epep**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
