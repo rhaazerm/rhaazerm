@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Rakha Azhar Ramadhani</h1>
+<h1 align="center">Hi 👋, I'm Rakha Azhar</h1>
 <h3 align="center">Software Engineering Student & Tech Enthusiast</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rhaazerm" alt="rhaazerm" /></a> </p>
