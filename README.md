@@ -1,8 +1,7 @@
-<h1 align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="6">
-    Hi 👋, I'm Rakha Azhar Ramadhani
-  </marquee>
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F7F7F7&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Rakha+Azhar+Ramadhani" alt="Typing SVG" />
+</div>
+
 <h3 align="center">Software Engineering Student & Tech Enthusiast</h3>
 
 - 🌱 I’m currently learning **Laravel, MySQL/SQL, UI/UX (Figma)**
